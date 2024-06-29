@@ -1,0 +1,25 @@
+{
+  "General achievements": {
+    "show": true,
+    "badges": [
+    ]
+  },
+  "Cycling achievements": {
+    "show": true,
+    "badges": [
+    ]
+  },
+  "Running achievements": {
+    "show": false,
+    "badges": []
+  },
+  "Extra credit": {
+    "show": true,
+    "badges": []
+  },
+  "Route achievements": {
+    "show": true,
+    "badges": [
+    ]
+  }
+}

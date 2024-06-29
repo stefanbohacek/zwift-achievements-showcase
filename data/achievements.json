@@ -1,0 +1,1077 @@
+{
+  "General achievements": {
+    "badges": {
+      "Habitual": {
+        "description": "Ride 10 km in a single activity 3 days in a row.",
+        "image": "Ride3days_119x119.png",
+        "image_description": "Calendar with 3 days crossed out."
+      },
+      "Addicted": {
+        "description": "Ride a lap 7 days in a row.",
+        "image": "Ride7days_120x120.png",
+        "image_description": "Calendar with 7 days crossed out."
+      },
+      "Working from Home": {
+        "description": "Ride 10 km in a single activity 14 days in a row.",
+        "image": "Ride14days_120x120.png",
+        "image_description": "Calendar with 14 days crossed out."
+      },
+      "You're Popular": {
+        "description": "Receive 10 Ride Ons in one ride.",
+        "image": "GetRideOn1_120x120.png",
+        "image_description": "Zwifter with A stylized thumbs-up \"Ride On!\" icon."
+      },
+      "Ride On": {
+        "description": "Give 3 Ride Ons.",
+        "image": "GiveRideOn1_120x120.png",
+        "image_description": "A stylized thumbs-up \"Ride On!\" icon with flame coming out of the thumb."
+      },
+      "Big Fan": {
+        "description": "Give 30 Ride Ons.",
+        "image": "GiveRideOn2_120x120.png",
+        "image_description": "A stylized thumbs-up \"Ride On!\" icon with flames covering the hand."
+      },
+      "Fan Club": {
+        "description": "Give 100 Ride Ons",
+        "image": "GiveRideOn3_120x120.png",
+        "image_description": "A stylized thumbs-up \"Ride On!\" icon showing with the hand engulfed with flame."
+      },
+      "Paparazzi": {
+        "description": "Fan view for 15 minutes.",
+        "image": "Stalker_120x120.png",
+        "image_description": "Cameras on a person riding a bike."
+      },
+      "Into the Wind": {
+        "description": "Do a u-turn.",
+        "image": "Uturn_120x120.png",
+        "image_description": "Person riding a bike on road making a U-turn."
+      },
+      "Statistician": {
+        "description": "Connected your Strava<sup>®</sup> account.",
+        "image": "ConnectToStrava_120x120.png",
+        "image_description": "Zwift logo with Strava logo."
+      },
+      "Paired": {
+        "description": "Pair Zwift Companion (ZC) with Zwift.",
+        "image": "PairZwift_120x120.png",
+        "image_description": "Zwift logo in a screen."
+      },
+      "Sweat!": {
+        "description": "Completed a workout.",
+        "image": "CompleteWorkout_120x120.png",
+        "image_description": "A person riding a bike crossing a finish line."
+      }
+    }
+  },
+  "Cycling achievements": {
+    "badges": {
+      "Can't Stop Now": {
+        "description": "Ride 10 mi in 1 activity.",
+        "image": "Distance10_120x120.png",
+        "image_description": "Person riding a bike for 10 minutes."
+      },
+      "Marathoner": {
+        "description": "Ride 40 km in 1 activity.",
+        "image": "Distance40km_120x120.png",
+        "image_description": "Person riding a bike next to a statue."
+      },
+      "100 Clicks": {
+        "description": "Ride 100 km in 1 activity.",
+        "image": "Distance100km_120x120.png",
+        "image_description": "A person riding a bike next to a silver \"100\" sign."
+      },
+      "No Big Deal": {
+        "description": "Ride 100 mi in 1 activity.",
+        "image": "Distance100mi_120x120.png",
+        "image_description": "A person riding a bike next to a golden \"100\" sign."
+      },
+      "Whoa Nelly": {
+        "description": "Break 30 mph.",
+        "image": "30mphTrike_120x120.png",
+        "image_description": "Trike breaking with flames."
+      },
+      "Speed Demon": {
+        "description": "Break 40 mph.",
+        "image": "40mphBike_120x120.png",
+        "image_description": "An exaggerated illustration of a bike with its front wheel up in the air, and a flame coming out of the back wheel that's touching the ground."
+      },
+      "Daredevil": {
+        "description": "Break 50 mph.",
+        "image": "50mphRocket_120x120.png",
+        "image_description": "Blue and grey rocket."
+      },
+      "Sprinter Apprentice": {
+        "description": "Hit 500 watts.",
+        "image": "Watt1_120x120.png",
+        "image_description": "Lightbulb."
+      },
+      "Lit": {
+        "description": "Hit 600 watts.",
+        "image": "Watt2_120x120.png",
+        "image_description": "Street Lamp."
+      },
+      "Circuit Braker": {
+        "description": "Hit 700 watts.",
+        "image": "Watt3_120x120.png",
+        "image_description": "Lit up Christmas tree."
+      },
+      "Master Draftsman": {
+        "description": "Draft with another rider for 15 seconds.",
+        "image": "Drafting_120x120.png",
+        "image_description": "Two people riding a bike following each other."
+      },
+      "Jelly": {
+        "description": "Hold over 500 watts for 10 seconds.",
+        "image": "500w10sec_120x120.png",
+        "image_description": "An illustration of a person sitting on the ground with their legs stretched out and wiggly."
+      },
+      "Warmed Up": {
+        "description": "Do 5 Volcano Circuit laps in 1 activity.",
+        "image": "WarmedUp_120x120.png",
+        "image_description": "Bike route around a volcano."
+      },
+      "Hothead": {
+        "description": "Do 10 Volcano Circuit laps in 1 activity.",
+        "image": "Hothead_120x120.png",
+        "image_description": "Bike route around errupting volcano."
+      },
+      "On Fire!": {
+        "description": "Do 25 Volcano Circuit laps in 1 activity.",
+        "image": "OnFire_120x120.png",
+        "image_description": "Bike route around explosive volcano."
+      },
+      "Avid Climber": {
+        "description": "Climb Alpe du Zwift 5 times.",
+        "image": "AvidClimber_120x120.png",
+        "image_description": "Ice covered mountain with the text \"5x\" floating in front of it."
+      },
+      "Masochist": {
+        "description": "Climb Alpe du Zwift 25 times.",
+        "image": "Masochist_120x120.png",
+        "image_description": "Ice-covered mountain with the text \"25x\" floating in front of it."
+      },
+      "Portal Climber": {
+        "description": "Complete 1 Climb Portal ride.",
+        "image": "ClimbPortal1x_120x120.png",
+        "image_description": "An illustration of a person riding up a slope split into colorful sections A large text saying \"1x\" is floating above."
+      },
+      "Climb Portal Pro": {
+        "description": "Complete 10 Climb Portal rides.",
+        "image": "ClimbPortal10x_120x120.png",
+        "image_description": "An illustration of a person riding up a slope split into colorful sections A large text saying \"10x\" is floating above."
+      },
+      "Legs of Steel": {
+        "description": "Complete 25 Climb Portal rides.",
+        "image": "ClimbPortal25x_120x120.png",
+        "image_description": "An illustration of a person riding up a slope split into colorful sections A large text saying \"25x\" is floating above."
+      }
+    }
+  },
+  "Running achievements": {
+    "badges": {
+      "Hot Off the Line": {
+        "description": "Run 1 mi in 1 activity",
+        "image": "HotofftheLine_120x120.png",
+        "image_description": "Illustration of a person running with a \"1 mile\" text floating behind them."
+      },
+      "First Five": {
+        "description": "Run 5 km in 1 activity",
+        "image": "FirstFive_120x120.png",
+        "image_description": "Illustration of a person running with a \"5km\" text floating behind them."
+      },
+      "Gimme Ten": {
+        "description": "Run 10 km in 1 activity",
+        "image": "Gimme10_120x120.png",
+        "image_description": "Illustration of a person running with a \"10 km\" text floating behind them."
+      },
+      "Runners Dozen": {
+        "description": "Run 13.1 mi in 1 activity",
+        "image": "runners_dozen_120x120.png",
+        "image_description": "Illustration of a person running with a \"13.1 mile\" text floating behind them."
+      },
+      "Going the Distance": {
+        "description": "Run 26.2 mi in 1 activity",
+        "image": "marathon_120x120.png",
+        "image_description": "Illustration of a person running a marathon."
+      },
+      "Centurion": {
+        "description": "Run a total of 100 mi",
+        "image": "cent_120x120.png",
+        "image_description": "An illustration of a pair of white Zwift-branded shoes. The laces and the \"Z\" logo on the side are both orange."
+      },
+      "Street Cred": {
+        "description": "Run a total of 500 mi",
+        "image": "street_120x120.png",
+        "image_description": "An illustration of a pair of untied white Zwift-branded shoes. The laces and the \"Z\" logo on the side are both orange."
+      },
+      "Pursuit of Happiness": {
+        "description": "Run a total of 1000 mi",
+        "image": "happy_120x120.png",
+        "image_description": "An illustration of a pair of town and untied white Zwift-branded shoes. The laces and the \"Z\" logo on the side are both orange."
+      },
+      "Earning the Donuts": {
+        "description": "Run 1 mi in under 9 minutes",
+        "image": "Donuts_120x120.png",
+        "image_description": "Illustration of a person running with a 9 minute stopwatch floating behind them."
+      },
+      "Leg Warmer": {
+        "description": "Run 1 mi in under 8 minutes",
+        "image": "LegWarmer_120x120.png",
+        "image_description": "Illustration of a person running with an 8 minute stopwatch floating behind them."
+      },
+      "Like the Wind": {
+        "description": "Run 1 mi in under 7 minutes",
+        "image": "LikeTheWind_120x120.png",
+        "image_description": "Illustration of a person running with a 7 minute stopwatch floating behind them."
+      },
+      "Engines are go": {
+        "description": "Run 1 mi in under 6 minutes",
+        "image": "EnginesAreGo_120x120.png",
+        "image_description": "Illustration of a person running with a 6 minute stopwatch floating behind them."
+      },
+      "Olympian": {
+        "description": "Run 1 mi in under 5 minutes",
+        "image": "Olympian_120x120.png",
+        "image_description": "Illustration of a person running with a 5 minute stopwatch floating behind them."
+      }
+    }
+  },
+  "Extra credit": {
+    "badges": {
+      "100KPH!": {
+        "description": "You hit 100KPH!",
+        "image": "100kph.png",
+        "image_description": "An illustration of a person riding a bike downhill at a high speed, looking like a meteorite."
+      },
+      "Just scrape it": {
+        "description": "You hit 800 watts",
+        "image": "Watt4.png",
+        "image_description": "An illustration of a burnt piece of toast with a sad face jumping out of a toaster."
+      },
+      "The blowdrier": {
+        "description": "You hit 900 watts",
+        "image": "Watt5.png",
+        "image_description": "An illustration of a blowdrier with sparkles covering its front where the hot air is coming out of."
+      },
+      "Premier power": {
+        "description": "You hit 1000 watts",
+        "image": "Watt6.png",
+        "image_description": "An illustration of a large lamp, one that would be used at a theater to light up the performance."
+      },
+      "Off the rocks": {
+        "description": "You hit 1100 watts",
+        "image": "Watt7.png",
+        "image_description": "An illustration of a lighthouse atop of a cliff, with its light exaggerated."
+      },
+      "1.21 gigawatts": {
+        "description": "You hit 1200 watts",
+        "image": "Watt8.png",
+        "image_description": "An illustration of a ball of light."
+      },
+      "You’re famous": {
+        "description": "You received 30 Ride Ons in one ride",
+        "image": "GetRideOn2.png",
+        "image_description": "An illustration of a tired cyclist viwed from behind, with their back covered in \"thumbs-up\" icons, coming out of their pants."
+      },
+      "Going the distance": {
+        "description": "You ran 26.2 miles",
+        "image": "SessionRun26mi.png",
+        "image_description": "An illustration of a person running, with a text saying \"26.2\" floating behind them."
+      },
+      "Olympian": {
+        "description": "You ran a mile in under 5 minutes",
+        "image": "MileRun5min.png",
+        "image_description": "An illustration of a person running, with a stopwatch floating behind them and showing 5 minutes elapsed."
+      },
+      "Everested!": {
+        "description": "You climed 29,029 ft in one activity",
+        "image": "EverestChallenge.png",
+        "image_description": "An illustration of a tall mountain with an excessively long, colorful striped flag planted on top and blowing in the wind."
+      },
+      "Bigger than Jensie": {
+        "description": "You received 100 Ride Ons in one ride",
+        "image": "GetRideOn3.png",
+        "image_description": "A person lying flat on the ground, covered with \"thumbs-up\" icons, with only their legs visible."
+      },
+      "Liftoff!": {
+        "description": "Climbed Alpe du Zwift in under an hour",
+        "image": "ClimbAlpe1hour.png",
+        "image_description": "An illustration of a person riding a bike, with a rocket strapped to their back."
+      }
+    }
+  },
+  "Route achievements": {
+    "badges": {
+      "Casse-Pattes": {
+        "description": "Distance: 22.9 km/14.2 mi<br/>Elevation: 155 m/509 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Douce France": {
+        "description": "Distance: 23.4 km/14.5 mi<br/>Elevation: 134 m/437 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "La Reine": {
+        "description": "Distance: 22.5 km/13.9 mi<br/>Elevation: 1205 m/3954 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Petit Boucle": {
+        "description": "Distance: 60.8 km/37.7 mi<br/>Elevation: 483 m/1584 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "R.G.V.": {
+        "description": "Distance: 24 km/14.9 mi<br/>Elevation: 133 m/437 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Roule Ma Poule": {
+        "description": "Distance: 21.7 km/13.4 mi<br/>Elevation: 156 m/508 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Tire-Bouchon": {
+        "description": "Distance: 60.8 km/37.8 mi<br/>Elevation: 483 m/1584 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Ven-Top": {
+        "description": "Distance: 20.7 km/12.9 mi<br/>Elevation: 1535 m/5036 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "2018 UCI Worlds Short Lap": {
+        "description": "Distance: 23.7 km/14.7 mi<br/>Elevation: 495 m/1623 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Achterbahn": {
+        "description": "Distance: 47.4 km/29.5 mi<br/>Elevation: 989 m/3244 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Innsbruckring": {
+        "description": "Distance: 8.8 km/5.5 mi<br/>Elevation: 77 m/252 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Lutscher": {
+        "description": "Distance: 13.7 km/8.5 mi<br/>Elevation: 402 m/1318 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Lutscher CCW": {
+        "description": "Distance: 13.7 km/8.5 mi<br/>Elevation: 402 m/1318 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "London Classique": {
+        "description": "Distance: 5.5 km/3.4 mi<br/>Elevation: 25 m/83 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Greater London 8": {
+        "description": "Distance: 23.9 km/14.7 mi<br/>Elevation: 276 m/905 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Greater London Flat": {
+        "description": "Distance: 11.6 km/7.3 mi<br/>Elevation: 53 m/175 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Greater London Loop": {
+        "description": "Distance: 21.1 km/13 mi<br/>Elevation: 255 m/837 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Greatest London Flat": {
+        "description": "Distance: 23.6 km/14.7 mi<br/>Elevation: 163 m/537 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Greatest London Loop": {
+        "description": "Distance: 25.7 km/15.9 mi<br/>Elevation: 355 m/1166 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "London 8": {
+        "description": "Distance: 20.3 km/12.6 mi<br/>Elevation: 255 m/839 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "London Loop": {
+        "description": "Distance: 14.9 km/9.2 mi<br/>Elevation: 231 m/757 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Surrey Hills": {
+        "description": "Distance: 39.2 km/24.3 mi<br/>Elevation: 877 m/2879 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The London Pretzel": {
+        "description": "Distance: 55.8 km/34.6 mi<br/>Elevation: 572 m/1877 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The PRL Full": {
+        "description": "Distance: 173.4 km/107.8 mi<br/>Elevation: 2623 m/8606 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The PRL Half": {
+        "description": "Distance: 69.2 km/43 mi<br/>Elevation: 1009 m/3311 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Triple Loops": {
+        "description": "Distance: 41 km/25.4 mi<br/>Elevation: 565 m/1852 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Bridges and Boardwalks": {
+        "description": "Distance: 6.3 km/3.9 mi<br/>Elevation: 59 m/196 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Castle Crit": {
+        "description": "Distance: 2.2 km/1.3 mi<br/>Elevation: 9 m/30 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Castle to Castle": {
+        "description": "Distance: 22.4 km/13.9 mi<br/>Elevation: 140 m/458 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Chain Chomper": {
+        "description": "Distance: 13.6 km/8.5 mi<br/>Elevation: 183 m/602 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Chasing the Sun": {
+        "description": "Distance: 35.1 km/21.8 mi<br/>Elevation: 314 m/1032 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Country to Coastal": {
+        "description": "Distance: 33.4 km/20.7 mi<br/>Elevation:274 m/899 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Countryside Tour": {
+        "description": "Distance: 15.9 km/9.9 mi<br/>Elevation:185 m/608 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Electric Loop": {
+        "description": "Distance: 9 km/5.6 mi<br/>Elevation: 41 m/137 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Farmland Loop": {
+        "description": "Distance: 7.7 km/4.9 mi<br/>Elevation: 57 m/188 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Fine and Sandy": {
+        "description": "Distance: 10.7 km/6.5 mi<br/>Elevation: 77 m/253 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Flatland Loop": {
+        "description": "Distance: 12.9 km/8 mi<br/>Elevation:99 m/326 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Island Hopper": {
+        "description": "Distance: 18 km/11.2 mi<br/>Elevation: 129 m/422 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Island Outskirts": {
+        "description": "Distance: 10.7 km/6.6 mi<br/>Elevation: 77 m/253 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Kappa Quest": {
+        "description": "Distance: 9.1 km/5.7 mi<br/>Elevation: 140 m/458 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Kappa Quest Reverse": {
+        "description": "Distance: 9.1 km/5.7 mi<br/>Elevation: 140 m/459 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Makuri 40": {
+        "description": "Distance: 40.1 km/24.9 mi<br/>Elevation: 307 m/1006 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Mech Isle Loop": {
+        "description": "Distance: 4 km/2.5 mi<br/>Elevation: 38 m/127 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Neokyo All-Nighter": {
+        "description": "Distance: 24.3 km/15.1 mi<br/>Elevation: 167 m/549 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Neon Flats": {
+        "description": "Distance: 14.7 km/9.2 mi<br/>Elevation: 72 m/237 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Railways and Rooftops": {
+        "description": "Distance: 6.2 km/3.8 mi<br/>Elevation: 71 m/231 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Rooftop Rendezvous": {
+        "description": "Distance: 3.7 km/2.4 mi<br/>Elevation: 56 m/184 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Sea to Tree": {
+        "description": "Distance: 3.3 km/2 mi<br/>Elevation: 107 m/355 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Sleepless City": {
+        "description": "Distance: 9.6 km/5.9 mi<br/>Elevation: 42 m/139 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Spirit Forest": {
+        "description": "Distance: 8.4 km/5.3 mi<br/>Elevation: 135 m/443 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Sprinter's Playground": {
+        "description": "Distance: 12.3 km/7.7 mi<br/>Elevation: 67 m/221 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Suki's Playground": {
+        "description": "Distance: 18.3 km/11.4 mi<br/>Elevation: 149 m/491 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Temples and Towers": {
+        "description": "Distance: 32.9 km/20.5 mi<br/>Elevation: 319 m/1046 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Three Village Loop": {
+        "description": "Distance: 10.5 km/6.6 mi<br/>Elevation: 93 m/304 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Turf N Surf": {
+        "description": "Distance: 24.6 km/15.3 mi<br/>Elevation: 196 m/642 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Twilight Harbor": {
+        "description": "Distance: 6.9 km/4.3 mi<br/>Elevation: 33 m/109 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Two Village Loop": {
+        "description": "Distance: 12.8 km/8 mi<br/>Elevation: 88 m/289 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Valley to Mountaintop": {
+        "description": "Distance: 5.0 km/3.1 mi<br/>Elevation: 130 m/428 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Wandering Flats": {
+        "description": "Distance: 25.1 km/15.6 mi<br/>Elevation: 146 m/478 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Astoria Line 8": {
+        "description": "Distance: 11.1 km/6.9 mi<br/>Elevation: 142 m/464 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Everything Bagel": {
+        "description": "Distance: 34.3 km/21.3 mi<br/>Elevation: 545 m/1788 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Gotham Grind": {
+        "description": "Distance: 9.3 km/5.7 mi<br/>Elevation: 96 m/316 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Grand Central Circuit": {
+        "description": "Distance: 6.9 km/4.3 mi<br/>Elevation: 144 m/473 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Knickerbocker": {
+        "description": "Distance: 22.4 km/13.9 mi<br/>Elevation: 362 m/1190 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Knickerbocker Reverse": {
+        "description": "Distance: 22.5 km/14 mi<br/>Elevation: 364 m/1196 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Lady Liberty": {
+        "description": "Distance: 12.1 km/7.6 mi<br/>Elevation: 206 m/676 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Mighty Metropolitan": {
+        "description": "Distance: 19.7 km/12.2 mi<br/>Elevation: 319 m/1045 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Park Perimeter Loop": {
+        "description": "Distance: 9.3 km/5.8 mi<br/>Elevation: 126 m/414 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Rising Empire": {
+        "description": "Distance: 20.4 km/12.7 mi<br/>Elevation: 377 m/1237 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The 6 Train": {
+        "description": "Distance: 6.5 km/4 mi<br/>Elevation: 69 m/227 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The Highline": {
+        "description": "Distance: 10.5 km/6.6 mi<br/>Elevation: 179 m/587 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Champs-Elysee": {
+        "description": "Distance: 6.6 km/4.1 mi<br/>Elevation: 40 m/130 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Lutece Express": {
+        "description": "Distance: 6.6 km/4.1 mi<br/>Elevation: 40 m/130 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "2015 UCI Worlds Course": {
+        "description": "Distance: 15.9 km/10.1 mi<br/>Elevation: 158 m/517 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Cobbled Climbs": {
+        "description": "Distance: 9.2 km/5.7 mi<br/>Elevation: 134 m/445 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Richmond UCI Reverse": {
+        "description": "Distance: 15.9 km/9.9 mi<br/>Elevation: 158 m/517 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The Fan Flats": {
+        "description": "Distance: 5 km/3.2 mi<br/>Elevation: 20 m/65 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "City and the Sgurr": {
+        "description": "Distance: 6 km/3.7 mi<br/>Elevation: 103 m/336 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Glasgow Crit Circuit": {
+        "description": "Distance: 3 km/1.9 mi<br/>Elevation: 33 m/109 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Loch Loop": {
+        "description": "Distance: 8.1 km/5 mi<br/>Elevation: 71 km/233 mi)",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Rolling Highlands": {
+        "description": "Distance: 8.9 km/5.5 mi<br/>Elevation: 78 m/253 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The Muckle Yin": {
+        "description": "Distance: 23.4 km/14.6 mi<br/>Elevation: 282 m/925 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Accelerate to Elevate": {
+        "description": "Distance: 41.3 km/25.7 mi<br/>Elevation: 1152 m/3780 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Beach Island Loop": {
+        "description": "Distance: 12.8 km/8 mi<br/>Elevation: 49 m/160 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Big Flat 8": {
+        "description": "Distance: 29.2 km/18.1 mi<br/>Elevation: 103 m/338 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Big Foot Hills": {
+        "description": "Distance: 67.6 km/42 mi<br/>Elevation: 708 m/2323 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Big Loop": {
+        "description": "Distance: 42.1 km/26.2 mi<br/>Elevation: 662 m/2171 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Bigger Loop": {
+        "description": "Distance: 52.7 km/32.8 mi<br/>Elevation: 691 m/2268 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Canopies and Coastlines": {
+        "description": "Distance: 22.6 km/14 mi<br/>Elevation: 124 m/405 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Climber's Gambit": {
+        "description": "Distance: 27.8 km/17.3 mi<br/>Elevation: 671 m/2200 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Coast Crusher": {
+        "description": "Distance: 34.2 km/21.3 mi<br/>Elevation: 172 m/565 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Downtown Titans": {
+        "description": "Distance: 23.9 km/14.8 mi<br/>Elevation: 289 m/948 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Dust in the Wind": {
+        "description": "Distance: 52.1 km/32.4 mi<br/>Elevation: 583 m/1912 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Eastern Eight": {
+        "description": "Distance: 51.7 km/32.1 mi<br/>Elevation: 407 m/1334 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Figure 8": {
+        "description": "Distance: 29.2 km/18.2 mi<br/>Elevation: 254 m/833 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Figure 8 Reverse": {
+        "description": "Distance: 29.7 km/18.4 mi<br/>Elevation: 254 m/834 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Flat Route": {
+        "description": "Distance: 9.9 km/6.1 mi<br/>Elevation: 61 m/201 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Four Horsemen": {
+        "description": "Distance: 89.2 km/55.4 mi<br/>Elevation: 2108 m/6919 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Going Coastal": {
+        "description": "Distance: 16.4 km/10.2 mi<br/>Elevation: 63 m/207 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Hilly Route": {
+        "description": "Distance: 8.8 km/5.4 mi<br/>Elevation: 108 m/357 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Jungle Circuit": {
+        "description": "Distance: 7.9 km/4.9 mi<br/>Elevation: 83 m/272 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Jurassic Coast": {
+        "description": "Distance: 19.2 km/11.9 mi<br/>Elevation: 212 m/696 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Legends and Lava": {
+        "description": "Distance: 24.4 km/15.3 mi<br/>Elevation: 352 m/1156 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Loop de Loop": {
+        "description": "Distance: 12.3 km/7.7 mi<br/>Elevation: 145 m/474 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Mountain 8": {
+        "description": "Distance: 31.9 km/19.8 mi<br/>Elevation: 691 m/2268 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Mountain Mash": {
+        "description": "Distance: 5.6 km/3.5 mi<br/>Elevation: 335 m/1,099 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Mountain Route": {
+        "description": "Distance: 29.3 km/18.2 mi<br/>Elevation: 682 m/2239 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Muir And The Mountain": {
+        "description": "Distance: 34.1 km/21.2 mi<br/>Elevation: 792 m/2600 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Ocean Lava Cliffside Loop": {
+        "description": "Distance: 19.1 km/11.8 mi<br/>Elevation: 156 m/512 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Out and Back Again": {
+        "description": "Distance: 39.9 km/24.8 mi<br/>Elevation: 328 m/1076 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Quatch Quest": {
+        "description": "Distance: 46.5 km/28.9 mi<br/>Elevation: 1706 m/5598 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Road to Ruins": {
+        "description": "Distance: 29.2 km/18.2 mi<br/>Elevation: 275 m/901 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Road to Sky": {
+        "description": "Distance: 17.5 km/10.9 mi<br/>Elevation: 1046 m/3431 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Sand and Sequoias": {
+        "description": "Distance: 20.1 km/12.5 mi<br/>Elevation: 175 m/574 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Serpentine 8": {
+        "description": "Distance: 19.3 km/12 mi<br/>Elevation: 206 m/675 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Shorelines and Summits": {
+        "description": "Distance: 46.2 km/28.7 mi<br/>Elevation: 776 m/2545 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Spiral into the Volcano": {
+        "description": "Distance: 55.6 km/34.6 mi<br/>Elevation: 355 m/1,165 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Sugar Cookie": {
+        "description": "Distance: 33.6 km/20.8 mi<br/>Elevation: 250 m/820 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Surfin' Safari": {
+        "description": "Distance: 9.8 km/6.1 mi<br/>Elevation: 44 m/143 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Temple Trek": {
+        "description": "Distance: 6.5 km/4.1 mi<br/>Elevation: 25 m/82 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Tempus Fugit": {
+        "description": "Distance: 17.1 km/10.7 mi<br/>Elevation: 26 m/84 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The Big Ring": {
+        "description": "Distance: 48.9 km/30.4 mi<br/>Elevation: 268 m/881 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The Mega Pretzel": {
+        "description": "Distance: 107.3 km/66.7 mi<br/>Elevation: 1638 m/5375 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The Pretzel": {
+        "description": "Distance: 72.2 km/44.8 mi<br/>Elevation: 1360 m/4464 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "The Uber Pretzel": {
+        "description": "Distance: 128.3 km/79.7 mi<br/>Elevation: 2380 m/7808 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Three Little Sisters": {
+        "description": "Distance: 37.1 km/23.1 mi<br/>Elevation: 432 m/1413 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Three Sisters": {
+        "description": "Distance: 47.6 km/29.6 mi<br/>Elevation: 895 m/2939 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Tick Tock": {
+        "description": "Distance: 16.9 km/10.5 mi<br/>Elevation: 53 m/175 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Tour of Fire and Ice": {
+        "description": "Distance: 25.4 km/15.7 mi<br/>Elevation: 1164 m/3821 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Triple Flat Loops": {
+        "description": "Distance: 34 km/21.1 mi<br/>Elevation: 157 m/514 mi)",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Two Bridges Loop": {
+        "description": "Distance: 7.1 km/4.4 mi<br/>Elevation: 81 m/265 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Volcano Circuit": {
+        "description": "Distance: 4.1 km/2.5 mi<br/>Elevation: 21 m/67 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Volcano Circuit CCW": {
+        "description": "Distance: 4.1 km/2.5 mi<br/>Elevation: 20 m/67 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Volcano Climb": {
+        "description": "Distance: 22.5 km/13.9 mi<br/>Elevation: 203 m/666 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Volcano Flat": {
+        "description": "Distance: 12 km/7.4 mi<br/>Elevation: 50 m/164 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Watopia's Waistband": {
+        "description": "Distance: 25.5 km/15.8 mi<br/>Elevation: 95 m/312 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Whole Lotta Lava": {
+        "description": "Distance: 12.3 km/7.6 mi<br/>Elevation: 160 m/527 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Zwift Games 2024 Epic": {
+        "description": "Distance: 78.1 km/48.6 mi<br/>Elevation: 765 m/2,509 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "2019 UCI Worlds Harrogate Circuit": {
+        "description": "Distance: 13.9 km/8.6 mi<br/>Elevation: 246 m/805 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Duchy Estate": {
+        "description": "Distance: 3 km/1.8 mi<br/>Elevation: 40 m/133 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Queen's Highway": {
+        "description": "Distance: 3 km/1.8 mi<br/>Elevation: 40 m/134 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Royal Pump Room 8": {
+        "description": "Distance: 27.6 km/17.2 mi<br/>Elevation: 491 m/1609 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Tour of Tewit Well": {
+        "description": "Distance: 10.8 km/6.7 mi<br/>Elevation: 205 m/671 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Coastal Crown Loop": {
+        "description": "Distance: 15 km/9.3 mi<br/>Elevation: 186 m/610 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Elevation Evaluation": {
+        "description": "Distance: 24.6 km/15.3 mi<br/>Elevation: 396 m/1,299 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Glyph Heights": {
+        "description": "Distance: 25.4 km/15.8 mi<br/>Elevation: 537 m/1,762 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Itza Climb Finish": {
+        "description": "Distance: 29.3 km/18.2 mi<br/>Elevation: 293 m/961 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Itza Party": {
+        "description": "Distance: 45.2 km/28.1 mi<br/>Elevation: 506 m/1,660 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Mayan Mash": {
+        "description": "Distance: 34.6 km/21.5 mi<br/>Elevation: 755 m/2,477 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Mayan San Remo": {
+        "description": "Distance: 21.4 km/13.3 mi<br/>Elevation: 219 m/719 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Oh Hill No": {
+        "description": "Distance: 7.9 km/4.9 mi<br/>Elevation: 306 m/1,004 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Peak Performance": {
+        "description": "Distance: 45.9 km/28.5 mi<br/>Elevation: 726 m/2,382 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Snowman": {
+        "description": "Distance: 44 km/27.3 mi<br/>Elevation: 578 m/1,896 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      },
+      "Tides and Temples": {
+        "description": "Distance: 36.5 km/22.7 mi<br/>Elevation: 460 m/1,509 ft",
+        "image": "RouteComplete.png",
+        "image_description": "An S-shaped route graphic connecting a \"start\" arrow icon in a circle with green background and an orange \"finnish\" circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back. "
+      }
+    }
+  }
+}

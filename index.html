@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en"
+  class="h-100"
+  data-bs-theme="auto">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1" />
+  <meta name="description"
+    content="" />
+  <title>Zwift Achievements</title>
+  <link rel="stylesheet"
+    href="/libs/bootstrap/5.3.3/css/bootstrap.min.css" />
+  <link rel="stylesheet"
+    href="/css/style.css" />
+  <script type="module"
+    src="/js/script.js"
+    defer></script>
+</head>
+
+<body class="d-flex flex-column h-100">
+  <script>
+    const toggleDarkMode = (enabled) => {
+      const stickyTops = [...document.getElementsByClassName("sticky-top")];
+
+      if (enabled) {
+        document.body.setAttribute('data-bs-theme', 'dark');
+        if (stickyTops && stickyTops.length) {
+          stickyTops.forEach(stickyTop => {
+            stickyTop.classList.add("bg-dark");
+            stickyTop.classList.remove("bg-white");
+          });
+        }
+      } else {
+        document.body.setAttribute('data-bs-theme', 'light');
+        if (stickyTops && stickyTops.length) {
+          stickyTops.forEach(stickyTop => {
+            stickyTop.classList.add("bg-white");
+            stickyTop.classList.remove("bg-dark");
+          });
+        }
+      }
+    }
+
+    if (window.matchMedia) {
+      toggleDarkMode(window.matchMedia('(prefers-color-scheme: dark)').matches);
+    }
+
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', event => {
+      toggleDarkMode(window.matchMedia('(prefers-color-scheme: dark)').matches);
+    });
+  </script>
+  <main class="flex-shrink-0">
+    <div class="container">
+      <h1 class="mt-5">Zwift Achievements</h1>
+      <p class="lead">Here's a list of my <a href="https://www.zwift.com/">Zwift</a> Achievements. To learn more, visit
+        the following pages:</p>
+      <ul>
+        <li>
+          <a href="https://support.zwift.com/en_us/general-and-cycling-specific-zwift-badges-BJHuvw2F">General and
+            Cycling-specific Zwift Badges</a> <small class="text-body-secondary">zwift.com</small>
+        </li>
+        <li>
+          <a href="https://support.zwift.com/en_us/general-and-running-specific-zwift-badges-Hk99SOvhK">General and
+            Running-specific Zwift Badges
+          </a> <small class="text-body-secondary">zwift.com</small>
+        </li>
+        <li>
+          <a href="https://zwiftinsider.com/badges/">A Complete List of Zwift Achievement Badges</a> <small
+            class="text-body-secondary">zwiftinsider.com</small>
+        </li>
+        <li>
+          <a href="https://zwiftinsider.com/extra-credit-badges/">All About Zwift’s Hidden “Extra Credit” Achievement
+            Badges</a> <small class="text-body-secondary">zwiftinsider.com</small>
+        </li>
+      </ul>
+      <div id="badges"
+        class="mt-5">
+        <div class="container text-center">
+          <div class="row mt-4 mb-4">
+            <div class="col-10 col-md-3">
+              <p class="fw-bold text-start">
+                <span class="placeholder col-3"></span><span class="placeholder col-4"></span> <span class="placeholder col-2"></span>
+              </p>
+              <ul class="text-start">
+                <li>
+                  <a href="#"><span class="placeholder col-6"></span><span class="placeholder col-5"></span></a>
+                </li>
+
+                <li>
+                  <a href="#"><span class="placeholder col-5"></span><span class="placeholder col-5"></span></a>
+                </li>
+
+                <li>
+                  <a href="#"><span class="placeholder col-4"></span><span class="placeholder col-5"></span></a>
+                </li>
+
+                <li>
+                  <a href="#"><span class="placeholder col-6"></span><span class="placeholder col-5"></span></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="row mt-4 mb-4">
+            <div class="col-12">
+              <h2><span class="placeholder col-5"></span></h2>
+            </div>
+          </div>
+          <div class="row mb-4">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4">
+              <p class="fw-bold"><span class="placeholder col-5"></span> <span class="placeholder col-3"></span></p>
+              <svg class="bd-placeholder-img card-img-top mx-auto"
+                width="100%"
+                height="120"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                aria-label="Placeholder"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false">
+                <title>Placeholder</title>
+                <circle cx="50%"
+                  cy="50"
+                  r="50"
+                  fill="#868e96"></circle>
+              </svg>
+              <p>
+                <span class="placeholder col-5"></span> <span class="placeholder col-3"></span> <span
+                  class="placeholder col-2"></span> <span class="placeholder col-4"></span> <span
+                  class="placeholder col-5"></span>
+              </p>
+            </div>
+
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4">
+              <p class="fw-bold"><span class="placeholder col-8"></span></p>
+              <svg class="bd-placeholder-img card-img-top mx-auto"
+                width="100%"
+                height="120"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                aria-label="Placeholder"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false">
+                <title>Placeholder</title>
+                <circle cx="50%"
+                  cy="50"
+                  r="50"
+                  fill="#868e96"></circle>
+              </svg>
+              <p>
+                <span class="placeholder col-2"></span> <span class="placeholder col-4"></span> <span
+                  class="placeholder col-5"></span> <span class="placeholder col-4"></span> <span
+                  class="placeholder col-3"></span>
+              </p>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4">
+              <p class="fw-bold"><span class="placeholder col-8"></span></p>
+              <svg class="bd-placeholder-img card-img-top mx-auto"
+                width="100%"
+                height="120"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                aria-label="Placeholder"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false">
+                <title>Placeholder</title>
+                <circle cx="50%"
+                  cy="50"
+                  r="50"
+                  fill="#868e96"></circle>
+              </svg>
+              <p>
+                <span class="placeholder col-2"></span> <span class="placeholder col-4"></span> <span
+                  class="placeholder col-5"></span> <span class="placeholder col-4"></span> <span
+                  class="placeholder col-3"></span>
+              </p>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4">
+              <p class="fw-bold"><span class="placeholder col-8"></span></p>
+              <svg class="bd-placeholder-img card-img-top mx-auto"
+                width="100%"
+                height="120"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                aria-label="Placeholder"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false">
+                <title>Placeholder</title>
+                <circle cx="50%"
+                  cy="50"
+                  r="50"
+                  fill="#868e96"></circle>
+              </svg>
+              <p>
+                <span class="placeholder col-2"></span> <span class="placeholder col-4"></span> <span
+                  class="placeholder col-5"></span> <span class="placeholder col-4"></span> <span
+                  class="placeholder col-3"></span>
+              </p>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4">
+              <p class="fw-bold"><span class="placeholder col-8"></span></p>
+              <svg class="bd-placeholder-img card-img-top mx-auto"
+                width="100%"
+                height="120"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                aria-label="Placeholder"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false">
+                <title>Placeholder</title>
+                <circle cx="50%"
+                  cy="50"
+                  r="50"
+                  fill="#868e96"></circle>
+              </svg>
+              <p>
+                <span class="placeholder col-2"></span> <span class="placeholder col-4"></span> <span
+                  class="placeholder col-5"></span> <span class="placeholder col-4"></span> <span
+                  class="placeholder col-3"></span>
+              </p>
+            </div>
+
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4">
+              <p class="fw-bold"><span class="placeholder col-2"></span> <span class="placeholder col-4"></p>
+              <svg class="bd-placeholder-img card-img-top mx-auto"
+                width="100%"
+                height="120"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                aria-label="Placeholder"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false">
+                <title>Placeholder</title>
+                <circle cx="50%"
+                  cy="50"
+                  r="50"
+                  fill="#868e96"></circle>
+              </svg>
+              <p>
+                <span class="placeholder col-7"></span> <span class="placeholder col-2"></span> <span
+                  class="placeholder col-3"></span> <span class="placeholder col-5"></span> <span
+                  class="placeholder col-2"></span>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    </div>
+  </main>
+  <footer class="footer mt-auto pt-3 pb-5 bg-body-tertiary">
+    <div class="container pt-5 pb-3">
+      <p class="text-body-secondary">
+        The "Zwift Achievements Showcase" project was created by <a href="https://stefanbohacek.com/">Stefan
+          Bohacek</a>.
+        Learn how to <a href="">make your own</a>! The "Zwift" name and all achievement illustrations are owned by Zwift
+        or their licensors and are protected under both United States and foreign laws, and are used with written permission for personal,
+        noncommercial use in compliance with Zwift's <a
+          href="https://support.zwift.com/en_us/terms-of-service-HJt7VBYyH">terms of service</a>.
+      </p>
+    </div>
+  </footer>
+  <a id="back-to-top"
+    class="fixed-bottom btn btn-dark border border-bottom-0 mt-3 d-none mx-auto rounded-bottom-0"
+    role="button"
+    href="#"
+    title="Back to Top">
+    <svg xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 512 512"
+      width="1em"
+      height="1em"
+      fill="currentColor">
+      <!--! Font Awesome Free 6.4.2  -->
+      <path
+        d="M233.4 105.4c12.5-12.5 32.8-12.5 45.3 0l192 192c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L256 173.3 86.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l192-192z">
+      </path>
+    </svg> Back to top
+  </a>
+</body>
+
+</html>
