@@ -25,21 +25,23 @@ export default async (fn) => {
         achievementsAll[category].badges
       ).length;
 
-      
       const categoryBadgesCountAchieved = Object.keys(
         achievementsAchieved[category].badges
       ).length;
-      
-      badgesCountTotal += categoryBadgesCountTotal
+
+      badgesCountTotal += categoryBadgesCountTotal;
       badgesCountAchieved += categoryBadgesCountAchieved;
 
       achievementsSectionsHTML += /* html */ `
         <li>
-          <a href="#${slugify(category)}">${category}</a> <small class="text-body-secondary">(${categoryBadgesCountAchieved.toLocaleString()}/${categoryBadgesCountTotal.toLocaleString()})</small>
+          <a href="#${slugify(
+            category
+          )}">${category}</a> <small class="text-body-secondary">(${categoryBadgesCountAchieved.toLocaleString()}/${categoryBadgesCountTotal.toLocaleString()})</small>
         </li>
       `;
 
-      const is100 = categoryBadgesCountAchieved === categoryBadgesCountTotal ? " 🎉" : ""
+      const is100 =
+        categoryBadgesCountAchieved === categoryBadgesCountTotal ? " 🎉" : "";
 
       achievementsHTML += /* html */ `
       <div class="row mt-4 mb-4 sticky-top ${
@@ -48,7 +50,9 @@ export default async (fn) => {
           : "bg-white"
       }">
         <div class="col-12">
-          <a class="text-decoration-none text-body-secondary" href="#${slugify(category)}">
+          <a class="text-decoration-none text-body-secondary" href="#${slugify(
+            category
+          )}">
             <h2 id="${slugify(
               category
             )}">${category} <small class="text-body-secondary">(${categoryBadgesCountAchieved}/${categoryBadgesCountTotal})${is100}</small>
@@ -59,7 +63,15 @@ export default async (fn) => {
       <div class="row mb-4">
       `;
 
-      for (const badgeName in achievementsAll[category].badges) {
+      const badgeNames = Object.keys(achievementsAll[category].badges);
+
+      if (category === "Route achievements") {
+        badgeNames.sort();
+      }
+
+      for (let i = 0; i < badgeNames.length; ++i) {
+        // const badge = achievementsAll[category].badges[badgeNames[i]];
+        const badgeName = badgeNames[i];
         const isBadgeAchieved = achievementsAchieved[category].badges
           .map((routeName) => routeName.toLowerCase())
           .includes(badgeName.toLowerCase());
@@ -75,14 +87,14 @@ export default async (fn) => {
             achievementsAll[category].badges[badgeName].image
           }"
           title="The &quot;${badgeName}&quot; badge (${
-            isBadgeAchieved ? "" : "not "
-          }awarded)"
+          isBadgeAchieved ? "" : "not "
+        }awarded)"
           alt="${
-          achievementsAll[category].badges[badgeName].image_description +
-          !isBadgeAchieved
-            ? " The colors of the image are grayed out as the badge has not been awarded yet."
-            : ""
-        }">
+            achievementsAll[category].badges[badgeName].image_description +
+            !isBadgeAchieved
+              ? " The colors of the image are grayed out as the badge has not been awarded yet."
+              : ""
+          }">
           <p class="text-center">
             <small class="text-body-secondary">${
               achievementsAll[category].badges[badgeName].description
@@ -105,5 +117,6 @@ export default async (fn) => {
   const badgesCountInfo = `${badgesCountAchieved.toLocaleString()}/${badgesCountTotal.toLocaleString()}`;
 
   document.getElementById("badges").innerHTML =
-    achievementsSectionsHTML.replace("%COUNT%", `(${badgesCountInfo})`) + achievementsHTML;
+    achievementsSectionsHTML.replace("%COUNT%", `(${badgesCountInfo})`) +
+    achievementsHTML;
 };
