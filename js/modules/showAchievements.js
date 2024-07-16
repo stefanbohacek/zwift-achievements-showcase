@@ -104,6 +104,7 @@ export default async (fn) => {
         </div>
         `;
       }
+      achievementsHTML += "</div>";
     }
   }
 
