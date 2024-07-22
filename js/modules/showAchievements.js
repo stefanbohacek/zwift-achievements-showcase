@@ -2,10 +2,11 @@ import slugify from "./slugify.js";
 
 export default async (fn) => {
   const date = new Date();
-  let data = await fetch(`/data/achievements.json?v=${date.getHours()}-${date.getMinutes()}`);
-  const achievementsAll = await data.json();
+  const versionString = `${date.getHours()}-${date.getMinutes()}`;
+  let data = await fetch(`/data/achievements.json?v=${versionString}`);
 
-  data = await fetch("/data/my-achievements.json");
+  const achievementsAll = await data.json();
+  data = await fetch(`/data/my-achievements.json?v=${versionString}`);
   const achievementsAchieved = await data.json();
 
   let achievementsSectionsHTML = /* html */ `
