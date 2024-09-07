@@ -1071,6 +1071,77 @@
         "description": "Distance: 36.5 km/22.7 mi<br/>Elevation: 460 m/1,509 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Radio Rendezvous": {
+        "description": "Distance: 20.5km/12.7 mi<br/>Elevation: 736 m/2414.7ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Power to the Tower": {
+        "description": "Distance: 45.3 km/28.1 mi<br/>Elevation: 1496 m/4,908ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Navig8": {
+        "description": "Distance: 63.9 km/39.7 mi<br/>Elevation: 417 m/1,368ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Mayan 8": {
+        "description": "Distance: 20 km/12.4 mi<br/>Elevation: 241 m/791ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Makuri Pretzel": {
+        "description": "Distance: 77.7 km/48.3 mi<br/>Elevation: 620 m/2,034ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Itza Climb Finish": {
+        "description": "Distance: 29.3 km/18.2 mi<br/>Elevation: 293 m/961ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Itza Party": {
+        "description": "Distance: 45.2 km/28.1 mi<br/>Elevation: 506 m/1,660ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Mayan San Remo": {
+        "description": "Distance: 21.4 km/13.3 mi<br/>Elevation: 219 m/719ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Libby Hill After Party": {
+        "description": "Distance: 32.9 km/20.4 mi<br/>Elevation: 118 m/387ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+
+      "Richmond Loop Around": {
+        "description": "Distance: 42.5 km/26.4 mi<br/>Elevation:  550 m/1,804ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Shisa Shakedown": {
+        "description": "Distance: 53.3 km/33.1 mi<br/>Elevation: 557 m/1,827ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Yorkshire Double Loops": {
+        "description": "Distance: 29.6 km/18.4 mi<br/>Elevation: 548 m/1,798ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Titans Run": {
+        "description": "Distance: 5.9 km/3.7 mi<br/>Elevation: 122 m/400ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Epic Run": {
+        "description": "Distance: 6.2 km/3.9 mi<br/>Elevation: 296 m/971ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
       }
     }
   }
