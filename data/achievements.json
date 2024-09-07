@@ -1032,23 +1032,8 @@
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
-      "Itza Climb Finish": {
-        "description": "Distance: 29.3 km/18.2 mi<br/>Elevation: 293 m/961 ft",
-        "image": "RouteComplete.png",
-        "image_description": "DESCR_ROUTE_COMPLETE"
-      },
-      "Itza Party": {
-        "description": "Distance: 45.2 km/28.1 mi<br/>Elevation: 506 m/1,660 ft",
-        "image": "RouteComplete.png",
-        "image_description": "DESCR_ROUTE_COMPLETE"
-      },
       "Mayan Mash": {
         "description": "Distance: 34.6 km/21.5 mi<br/>Elevation: 755 m/2,477 ft",
-        "image": "RouteComplete.png",
-        "image_description": "DESCR_ROUTE_COMPLETE"
-      },
-      "Mayan San Remo": {
-        "description": "Distance: 21.4 km/13.3 mi<br/>Elevation: 219 m/719 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
