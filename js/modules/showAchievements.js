@@ -78,6 +78,18 @@ export default async (fn) => {
           .map((routeName) => routeName.toLowerCase())
           .includes(badgeName.toLowerCase());
 
+        const imageDescriptions = {
+          DESCR_ROUTE_COMPLETE:
+            "An S-shaped route graphic connecting a “start” arrow icon in a circle with green background and an orange “finnish” circle at the end of it. There is a mountain in the background with its top covered with a cloud. The route goes through a hilly lake area. Two cyclist silhouettes are visible next to the mountain in the back.",
+        };
+
+        const imageDescription =
+          imageDescriptions[
+            achievementsAll[category].badges[badgeName].image_description
+          ] || achievementsAll[category].badges[badgeName].image_description;
+
+        console.log(imageDescription);
+
         achievementsHTML += /* html */ `
         <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 ${
           isBadgeAchieved ? "badge-achieved" : "badge-not-achieved"
@@ -91,12 +103,11 @@ export default async (fn) => {
           title="The &quot;${badgeName}&quot; badge (${
           isBadgeAchieved ? "" : "not "
         }awarded)"
-          alt="${
-            achievementsAll[category].badges[badgeName].image_description +
-            !isBadgeAchieved
-              ? " The colors of the image are grayed out as the badge has not been awarded yet."
-              : ""
-          }">
+          alt="${imageDescription}${
+          !isBadgeAchieved
+            ? " The colors of the image are grayed out as the badge has not been awarded yet."
+            : ""
+        }">
           <p class="text-center">
             <small class="text-body-secondary">${
               achievementsAll[category].badges[badgeName].description
