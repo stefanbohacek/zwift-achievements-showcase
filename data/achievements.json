@@ -1127,6 +1127,11 @@
         "description": "Distance: 6.2 km/3.9 mi<br/>Elevation: 296 m/971ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "The Classic": {
+        "description": "Distance: 4.7 km/2.9 mi<br/>Elevation: 49 m/161ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
       }
     }
   }
