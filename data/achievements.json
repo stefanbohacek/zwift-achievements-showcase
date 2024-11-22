@@ -1132,6 +1132,11 @@
         "description": "Distance: 4.7 km/2.9 mi<br/>Elevation: 49 m/161ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Waisted 8": {
+        "description": "Distance: 30.7 km/19.1 mi<br/>Elevation: 144 m/472ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
       }
     }
   }
