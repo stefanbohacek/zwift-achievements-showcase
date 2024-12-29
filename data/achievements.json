@@ -303,838 +303,868 @@
   "Route achievements": {
     "badges": {
       "Casse-Pattes": {
-        "description": "Distance: 22.9 km/14.2 mi<br/>Elevation: 155 m/509 ft",
+        "description": "Distance: 22.9km/14.2mi<br/>Elevation: 155m/509 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Douce France": {
-        "description": "Distance: 23.4 km/14.5 mi<br/>Elevation: 134 m/437 ft",
+        "description": "Distance: 23.4km/14.5mi<br/>Elevation: 134m/437 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "La Reine": {
-        "description": "Distance: 22.5 km/13.9 mi<br/>Elevation: 1205 m/3954 ft",
+        "description": "Distance: 22.5km/13.9mi<br/>Elevation: 1205m/3954 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Petit Boucle": {
-        "description": "Distance: 60.8 km/37.7 mi<br/>Elevation: 483 m/1584 ft",
+        "description": "Distance: 60.8km/37.7mi<br/>Elevation: 483m/1584 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "R.G.V.": {
-        "description": "Distance: 24 km/14.9 mi<br/>Elevation: 133 m/437 ft",
+        "description": "Distance: 24km/14.9mi<br/>Elevation: 133m/437 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Roule Ma Poule": {
-        "description": "Distance: 21.7 km/13.4 mi<br/>Elevation: 156 m/508 ft",
+        "description": "Distance: 21.7km/13.4mi<br/>Elevation: 156m/508 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Tire-Bouchon": {
-        "description": "Distance: 60.8 km/37.8 mi<br/>Elevation: 483 m/1584 ft",
+        "description": "Distance: 60.8km/37.8mi<br/>Elevation: 483m/1584 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Ven-Top": {
-        "description": "Distance: 20.7 km/12.9 mi<br/>Elevation: 1535 m/5036 ft",
+        "description": "Distance: 20.7km/12.9mi<br/>Elevation: 1535m/5036 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "2018 UCI Worlds Short Lap": {
-        "description": "Distance: 23.7 km/14.7 mi<br/>Elevation: 495 m/1623 ft",
+        "description": "Distance: 23.7km/14.7mi<br/>Elevation: 495m/1623 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Achterbahn": {
-        "description": "Distance: 47.4 km/29.5 mi<br/>Elevation: 989 m/3244 ft",
+        "description": "Distance: 47.4km/29.5mi<br/>Elevation: 989m/3244 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Innsbruckring": {
-        "description": "Distance: 8.8 km/5.5 mi<br/>Elevation: 77 m/252 ft",
+        "description": "Distance: 8.8km/5.5mi<br/>Elevation: 77m/252 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Lutscher": {
-        "description": "Distance: 13.7 km/8.5 mi<br/>Elevation: 402 m/1318 ft",
+        "description": "Distance: 13.7km/8.5mi<br/>Elevation: 402m/1318 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Lutscher CCW": {
-        "description": "Distance: 13.7 km/8.5 mi<br/>Elevation: 402 m/1318 ft",
+        "description": "Distance: 13.7km/8.5mi<br/>Elevation: 402m/1318 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "London Classique": {
-        "description": "Distance: 5.5 km/3.4 mi<br/>Elevation: 25 m/83 ft",
+        "description": "Distance: 5.5km/3.4mi<br/>Elevation: 25m/83 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Greater London 8": {
-        "description": "Distance: 23.9 km/14.7 mi<br/>Elevation: 276 m/905 ft",
+        "description": "Distance: 23.9km/14.7mi<br/>Elevation: 276m/905 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Greater London Flat": {
-        "description": "Distance: 11.6 km/7.3 mi<br/>Elevation: 53 m/175 ft",
+        "description": "Distance: 11.6km/7.3mi<br/>Elevation: 53m/175 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Greater London Loop": {
-        "description": "Distance: 21.1 km/13 mi<br/>Elevation: 255 m/837 ft",
+        "description": "Distance: 21.1km/13mi<br/>Elevation: 255m/837 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Greatest London Flat": {
-        "description": "Distance: 23.6 km/14.7 mi<br/>Elevation: 163 m/537 ft",
+        "description": "Distance: 23.6km/14.7mi<br/>Elevation: 163m/537 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Greatest London Loop": {
-        "description": "Distance: 25.7 km/15.9 mi<br/>Elevation: 355 m/1166 ft",
+        "description": "Distance: 25.7km/15.9mi<br/>Elevation: 355m/1166 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "London 8": {
-        "description": "Distance: 20.3 km/12.6 mi<br/>Elevation: 255 m/839 ft",
+        "description": "Distance: 20.3km/12.6mi<br/>Elevation: 255m/839 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "London Loop": {
-        "description": "Distance: 14.9 km/9.2 mi<br/>Elevation: 231 m/757 ft",
+        "description": "Distance: 14.9km/9.2mi<br/>Elevation: 231m/757 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Surrey Hills": {
-        "description": "Distance: 39.2 km/24.3 mi<br/>Elevation: 877 m/2879 ft",
+        "description": "Distance: 39.2km/24.3mi<br/>Elevation: 877m/2879 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The London Pretzel": {
-        "description": "Distance: 55.8 km/34.6 mi<br/>Elevation: 572 m/1877 ft",
+        "description": "Distance: 55.8km/34.6mi<br/>Elevation: 572m/1877 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The PRL Full": {
-        "description": "Distance: 173.4 km/107.8 mi<br/>Elevation: 2623 m/8606 ft",
+        "description": "Distance: 173.4km/107.8mi<br/>Elevation: 2623m/8606 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The PRL Half": {
-        "description": "Distance: 69.2 km/43 mi<br/>Elevation: 1009 m/3311 ft",
+        "description": "Distance: 69.2km/43mi<br/>Elevation: 1009m/3311 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Triple Loops": {
-        "description": "Distance: 41 km/25.4 mi<br/>Elevation: 565 m/1852 ft",
+        "description": "Distance: 41km/25.4mi<br/>Elevation: 565m/1852 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Bridges and Boardwalks": {
-        "description": "Distance: 6.3 km/3.9 mi<br/>Elevation: 59 m/196 ft",
+        "description": "Distance: 6.3km/3.9mi<br/>Elevation: 59m/196 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Castle Crit": {
-        "description": "Distance: 2.2 km/1.3 mi<br/>Elevation: 9 m/30 ft",
+        "description": "Distance: 2.2km/1.3mi<br/>Elevation: 9m/30 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Castle to Castle": {
-        "description": "Distance: 22.4 km/13.9 mi<br/>Elevation: 140 m/458 ft",
+        "description": "Distance: 22.4km/13.9mi<br/>Elevation: 140m/458 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Chain Chomper": {
-        "description": "Distance: 13.6 km/8.5 mi<br/>Elevation: 183 m/602 ft",
+        "description": "Distance: 13.6km/8.5mi<br/>Elevation: 183m/602 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Chasing the Sun": {
-        "description": "Distance: 35.1 km/21.8 mi<br/>Elevation: 314 m/1032 ft",
+        "description": "Distance: 35.1km/21.8mi<br/>Elevation: 314m/1032 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Country to Coastal": {
-        "description": "Distance: 33.4 km/20.7 mi<br/>Elevation:274 m/899 ft",
+        "description": "Distance: 33.4km/20.7mi<br/>Elevation:274m/899 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Countryside Tour": {
-        "description": "Distance: 15.9 km/9.9 mi<br/>Elevation:185 m/608 ft",
+        "description": "Distance: 15.9km/9.9mi<br/>Elevation:185m/608 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Electric Loop": {
-        "description": "Distance: 9 km/5.6 mi<br/>Elevation: 41 m/137 ft",
+        "description": "Distance: 9km/5.6mi<br/>Elevation: 41m/137 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Farmland Loop": {
-        "description": "Distance: 7.7 km/4.9 mi<br/>Elevation: 57 m/188 ft",
+        "description": "Distance: 7.7km/4.9mi<br/>Elevation: 57m/188 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Fine and Sandy": {
-        "description": "Distance: 10.7 km/6.5 mi<br/>Elevation: 77 m/253 ft",
+        "description": "Distance: 10.7km/6.5mi<br/>Elevation: 77m/253 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Flatland Loop": {
-        "description": "Distance: 12.9 km/8 mi<br/>Elevation:99 m/326 ft",
+        "description": "Distance: 12.9km/8mi<br/>Elevation:99m/326 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Island Hopper": {
-        "description": "Distance: 18 km/11.2 mi<br/>Elevation: 129 m/422 ft",
+        "description": "Distance: 18km/11.2mi<br/>Elevation: 129m/422 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Island Outskirts": {
-        "description": "Distance: 10.7 km/6.6 mi<br/>Elevation: 77 m/253 ft",
+        "description": "Distance: 10.7km/6.6mi<br/>Elevation: 77m/253 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Kappa Quest": {
-        "description": "Distance: 9.1 km/5.7 mi<br/>Elevation: 140 m/458 ft",
+        "description": "Distance: 9.1km/5.7mi<br/>Elevation: 140m/458 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Kappa Quest Reverse": {
-        "description": "Distance: 9.1 km/5.7 mi<br/>Elevation: 140 m/459 ft",
+        "description": "Distance: 9.1km/5.7mi<br/>Elevation: 140m/459 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Makuri 40": {
-        "description": "Distance: 40.1 km/24.9 mi<br/>Elevation: 307 m/1006 ft",
+        "description": "Distance: 40.1km/24.9mi<br/>Elevation: 307m/1006 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Mech Isle Loop": {
-        "description": "Distance: 4 km/2.5 mi<br/>Elevation: 38 m/127 ft",
+        "description": "Distance: 4km/2.5mi<br/>Elevation: 38m/127 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Neokyo All-Nighter": {
-        "description": "Distance: 24.3 km/15.1 mi<br/>Elevation: 167 m/549 ft",
+        "description": "Distance: 24.3km/15.1mi<br/>Elevation: 167m/549 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Neon Flats": {
-        "description": "Distance: 14.7 km/9.2 mi<br/>Elevation: 72 m/237 ft",
+        "description": "Distance: 14.7km/9.2mi<br/>Elevation: 72m/237 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Railways and Rooftops": {
-        "description": "Distance: 6.2 km/3.8 mi<br/>Elevation: 71 m/231 ft",
+        "description": "Distance: 6.2km/3.8mi<br/>Elevation: 71m/231 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Rooftop Rendezvous": {
-        "description": "Distance: 3.7 km/2.4 mi<br/>Elevation: 56 m/184 ft",
+        "description": "Distance: 3.7km/2.4mi<br/>Elevation: 56m/184 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Sea to Tree": {
-        "description": "Distance: 3.3 km/2 mi<br/>Elevation: 107 m/355 ft",
+        "description": "Distance: 3.3km/2mi<br/>Elevation: 107m/355 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Sleepless City": {
-        "description": "Distance: 9.6 km/5.9 mi<br/>Elevation: 42 m/139 ft",
+        "description": "Distance: 9.6km/5.9mi<br/>Elevation: 42m/139 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Spirit Forest": {
-        "description": "Distance: 8.4 km/5.3 mi<br/>Elevation: 135 m/443 ft",
+        "description": "Distance: 8.4km/5.3mi<br/>Elevation: 135m/443 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Sprinter's Playground": {
-        "description": "Distance: 12.3 km/7.7 mi<br/>Elevation: 67 m/221 ft",
+        "description": "Distance: 12.3km/7.7mi<br/>Elevation: 67m/221 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Suki's Playground": {
-        "description": "Distance: 18.3 km/11.4 mi<br/>Elevation: 149 m/491 ft",
+        "description": "Distance: 18.3km/11.4mi<br/>Elevation: 149m/491 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Temples and Towers": {
-        "description": "Distance: 32.9 km/20.5 mi<br/>Elevation: 319 m/1046 ft",
+        "description": "Distance: 32.9km/20.5mi<br/>Elevation: 319m/1046 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Three Village Loop": {
-        "description": "Distance: 10.5 km/6.6 mi<br/>Elevation: 93 m/304 ft",
+        "description": "Distance: 10.5km/6.6mi<br/>Elevation: 93m/304 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Turf N Surf": {
-        "description": "Distance: 24.6 km/15.3 mi<br/>Elevation: 196 m/642 ft",
+        "description": "Distance: 24.6km/15.3mi<br/>Elevation: 196m/642 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Twilight Harbor": {
-        "description": "Distance: 6.9 km/4.3 mi<br/>Elevation: 33 m/109 ft",
+        "description": "Distance: 6.9km/4.3mi<br/>Elevation: 33m/109 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Two Village Loop": {
-        "description": "Distance: 12.8 km/8 mi<br/>Elevation: 88 m/289 ft",
+        "description": "Distance: 12.8km/8mi<br/>Elevation: 88m/289 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Valley to Mountaintop": {
-        "description": "Distance: 5.0 km/3.1 mi<br/>Elevation: 130 m/428 ft",
+        "description": "Distance: 5.0km/3.1mi<br/>Elevation: 130m/428 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Wandering Flats": {
-        "description": "Distance: 25.1 km/15.6 mi<br/>Elevation: 146 m/478 ft",
+        "description": "Distance: 25.1km/15.6mi<br/>Elevation: 146m/478 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Astoria Line 8": {
-        "description": "Distance: 11.1 km/6.9 mi<br/>Elevation: 142 m/464 ft",
+        "description": "Distance: 11.1km/6.9mi<br/>Elevation: 142m/464 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Everything Bagel": {
-        "description": "Distance: 34.3 km/21.3 mi<br/>Elevation: 545 m/1788 ft",
+        "description": "Distance: 34.3km/21.3mi<br/>Elevation: 545m/1788 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Gotham Grind": {
-        "description": "Distance: 9.3 km/5.7 mi<br/>Elevation: 96 m/316 ft",
+        "description": "Distance: 9.3km/5.7mi<br/>Elevation: 96m/316 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Grand Central Circuit": {
-        "description": "Distance: 6.9 km/4.3 mi<br/>Elevation: 144 m/473 ft",
+        "description": "Distance: 6.9km/4.3mi<br/>Elevation: 144m/473 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Knickerbocker": {
-        "description": "Distance: 22.4 km/13.9 mi<br/>Elevation: 362 m/1190 ft",
+        "description": "Distance: 22.4km/13.9mi<br/>Elevation: 362m/1190 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Knickerbocker Reverse": {
-        "description": "Distance: 22.5 km/14 mi<br/>Elevation: 364 m/1196 ft",
+        "description": "Distance: 22.5km/14mi<br/>Elevation: 364m/1196 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Lady Liberty": {
-        "description": "Distance: 12.1 km/7.6 mi<br/>Elevation: 206 m/676 ft",
+        "description": "Distance: 12.1km/7.6mi<br/>Elevation: 206m/676 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Mighty Metropolitan": {
-        "description": "Distance: 19.7 km/12.2 mi<br/>Elevation: 319 m/1045 ft",
+        "description": "Distance: 19.7km/12.2mi<br/>Elevation: 319m/1045 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Park Perimeter Loop": {
-        "description": "Distance: 9.3 km/5.8 mi<br/>Elevation: 126 m/414 ft",
+        "description": "Distance: 9.3km/5.8mi<br/>Elevation: 126m/414 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Rising Empire": {
-        "description": "Distance: 20.4 km/12.7 mi<br/>Elevation: 377 m/1237 ft",
+        "description": "Distance: 20.4km/12.7mi<br/>Elevation: 377m/1237 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The 6 Train": {
-        "description": "Distance: 6.5 km/4 mi<br/>Elevation: 69 m/227 ft",
+        "description": "Distance: 6.5km/4mi<br/>Elevation: 69m/227 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The Highline": {
-        "description": "Distance: 10.5 km/6.6 mi<br/>Elevation: 179 m/587 ft",
+        "description": "Distance: 10.5km/6.6mi<br/>Elevation: 179m/587 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Champs-Elysee": {
-        "description": "Distance: 6.6 km/4.1 mi<br/>Elevation: 40 m/130 ft",
+        "description": "Distance: 6.6km/4.1mi<br/>Elevation: 40m/130 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Lutece Express": {
-        "description": "Distance: 6.6 km/4.1 mi<br/>Elevation: 40 m/130 ft",
+        "description": "Distance: 6.6km/4.1mi<br/>Elevation: 40m/130 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "2015 UCI Worlds Course": {
-        "description": "Distance: 15.9 km/10.1 mi<br/>Elevation: 158 m/517 ft",
+        "description": "Distance: 15.9km/10.1mi<br/>Elevation: 158m/517 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Cobbled Climbs": {
-        "description": "Distance: 9.2 km/5.7 mi<br/>Elevation: 134 m/445 ft",
+        "description": "Distance: 9.2km/5.7mi<br/>Elevation: 134m/445 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Richmond UCI Reverse": {
-        "description": "Distance: 15.9 km/9.9 mi<br/>Elevation: 158 m/517 ft",
+        "description": "Distance: 15.9km/9.9mi<br/>Elevation: 158m/517 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The Fan Flats": {
-        "description": "Distance: 5 km/3.2 mi<br/>Elevation: 20 m/65 ft",
+        "description": "Distance: 5km/3.2mi<br/>Elevation: 20m/65 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "City and the Sgurr": {
-        "description": "Distance: 6 km/3.7 mi<br/>Elevation: 103 m/336 ft",
+        "description": "Distance: 6km/3.7mi<br/>Elevation: 103m/336 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Glasgow Crit Circuit": {
-        "description": "Distance: 3 km/1.9 mi<br/>Elevation: 33 m/109 ft",
+        "description": "Distance: 3km/1.9mi<br/>Elevation: 33m/109 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Loch Loop": {
-        "description": "Distance: 8.1 km/5 mi<br/>Elevation: 71 km/233 mi)",
+        "description": "Distance: 8.1km/5mi<br/>Elevation: 71km/233 mi)",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Rolling Highlands": {
-        "description": "Distance: 8.9 km/5.5 mi<br/>Elevation: 78 m/253 ft",
+        "description": "Distance: 8.9km/5.5mi<br/>Elevation: 78m/253 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The Muckle Yin": {
-        "description": "Distance: 23.4 km/14.6 mi<br/>Elevation: 282 m/925 ft",
+        "description": "Distance: 23.4km/14.6mi<br/>Elevation: 282m/925 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Accelerate to Elevate": {
-        "description": "Distance: 41.3 km/25.7 mi<br/>Elevation: 1152 m/3780 ft",
+        "description": "Distance: 41.3km/25.7mi<br/>Elevation: 1152m/3780 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Beach Island Loop": {
-        "description": "Distance: 12.8 km/8 mi<br/>Elevation: 49 m/160 ft",
+        "description": "Distance: 12.8km/8mi<br/>Elevation: 49m/160 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Big Flat 8": {
-        "description": "Distance: 29.2 km/18.1 mi<br/>Elevation: 103 m/338 ft",
+        "description": "Distance: 29.2km/18.1mi<br/>Elevation: 103m/338 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Big Foot Hills": {
-        "description": "Distance: 67.6 km/42 mi<br/>Elevation: 708 m/2323 ft",
+        "description": "Distance: 67.6km/42mi<br/>Elevation: 708m/2323 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Big Loop": {
-        "description": "Distance: 42.1 km/26.2 mi<br/>Elevation: 662 m/2171 ft",
+        "description": "Distance: 42.1km/26.2mi<br/>Elevation: 662m/2171 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Bigger Loop": {
-        "description": "Distance: 52.7 km/32.8 mi<br/>Elevation: 691 m/2268 ft",
+        "description": "Distance: 52.7km/32.8mi<br/>Elevation: 691m/2268 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Canopies and Coastlines": {
-        "description": "Distance: 22.6 km/14 mi<br/>Elevation: 124 m/405 ft",
+        "description": "Distance: 22.6km/14mi<br/>Elevation: 124m/405 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Climber's Gambit": {
-        "description": "Distance: 27.8 km/17.3 mi<br/>Elevation: 671 m/2200 ft",
+        "description": "Distance: 27.8km/17.3mi<br/>Elevation: 671m/2200 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Coast Crusher": {
-        "description": "Distance: 34.2 km/21.3 mi<br/>Elevation: 172 m/565 ft",
+        "description": "Distance: 34.2km/21.3mi<br/>Elevation: 172m/565 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Downtown Titans": {
-        "description": "Distance: 23.9 km/14.8 mi<br/>Elevation: 289 m/948 ft",
+        "description": "Distance: 23.9km/14.8mi<br/>Elevation: 289m/948 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Dust in the Wind": {
-        "description": "Distance: 52.1 km/32.4 mi<br/>Elevation: 583 m/1912 ft",
+        "description": "Distance: 52.1km/32.4mi<br/>Elevation: 583m/1912 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Eastern Eight": {
-        "description": "Distance: 51.7 km/32.1 mi<br/>Elevation: 407 m/1334 ft",
+        "description": "Distance: 51.7km/32.1mi<br/>Elevation: 407m/1334 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Figure 8": {
-        "description": "Distance: 29.2 km/18.2 mi<br/>Elevation: 254 m/833 ft",
+        "description": "Distance: 29.2km/18.2mi<br/>Elevation: 254m/833 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Figure 8 Reverse": {
-        "description": "Distance: 29.7 km/18.4 mi<br/>Elevation: 254 m/834 ft",
+        "description": "Distance: 29.7km/18.4mi<br/>Elevation: 254m/834 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Flat Route": {
-        "description": "Distance: 9.9 km/6.1 mi<br/>Elevation: 61 m/201 ft",
+        "description": "Distance: 9.9km/6.1mi<br/>Elevation: 61m/201 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Four Horsemen": {
-        "description": "Distance: 89.2 km/55.4 mi<br/>Elevation: 2108 m/6919 ft",
+        "description": "Distance: 89.2km/55.4mi<br/>Elevation: 2108m/6919 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Going Coastal": {
-        "description": "Distance: 16.4 km/10.2 mi<br/>Elevation: 63 m/207 ft",
+        "description": "Distance: 16.4km/10.2mi<br/>Elevation: 63m/207 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Hilly Route": {
-        "description": "Distance: 8.8 km/5.4 mi<br/>Elevation: 108 m/357 ft",
+        "description": "Distance: 8.8km/5.4mi<br/>Elevation: 108m/357 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Jungle Circuit": {
-        "description": "Distance: 7.9 km/4.9 mi<br/>Elevation: 83 m/272 ft",
+        "description": "Distance: 7.9km/4.9mi<br/>Elevation: 83m/272 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Jurassic Coast": {
-        "description": "Distance: 19.2 km/11.9 mi<br/>Elevation: 212 m/696 ft",
+        "description": "Distance: 19.2km/11.9mi<br/>Elevation: 212m/696 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Legends and Lava": {
-        "description": "Distance: 24.4 km/15.3 mi<br/>Elevation: 352 m/1156 ft",
+        "description": "Distance: 24.4km/15.3mi<br/>Elevation: 352m/1156 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Loop de Loop": {
-        "description": "Distance: 12.3 km/7.7 mi<br/>Elevation: 145 m/474 ft",
+        "description": "Distance: 12.3km/7.7mi<br/>Elevation: 145m/474 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Mountain 8": {
-        "description": "Distance: 31.9 km/19.8 mi<br/>Elevation: 691 m/2268 ft",
+        "description": "Distance: 31.9km/19.8mi<br/>Elevation: 691m/2268 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Mountain Mash": {
-        "description": "Distance: 5.6 km/3.5 mi<br/>Elevation: 335 m/1,099 ft",
+        "description": "Distance: 5.6km/3.5mi<br/>Elevation: 335m/1,099 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Mountain Route": {
-        "description": "Distance: 29.3 km/18.2 mi<br/>Elevation: 682 m/2239 ft",
+        "description": "Distance: 29.3km/18.2mi<br/>Elevation: 682m/2239 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Muir And The Mountain": {
-        "description": "Distance: 34.1 km/21.2 mi<br/>Elevation: 792 m/2600 ft",
+        "description": "Distance: 34.1km/21.2mi<br/>Elevation: 792m/2600 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Ocean Lava Cliffside Loop": {
-        "description": "Distance: 19.1 km/11.8 mi<br/>Elevation: 156 m/512 ft",
+        "description": "Distance: 19.1km/11.8mi<br/>Elevation: 156m/512 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Out and Back Again": {
-        "description": "Distance: 39.9 km/24.8 mi<br/>Elevation: 328 m/1076 ft",
+        "description": "Distance: 39.9km/24.8mi<br/>Elevation: 328m/1076 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Quatch Quest": {
-        "description": "Distance: 46.5 km/28.9 mi<br/>Elevation: 1706 m/5598 ft",
+        "description": "Distance: 46.5km/28.9mi<br/>Elevation: 1706m/5598 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Road to Ruins": {
-        "description": "Distance: 29.2 km/18.2 mi<br/>Elevation: 275 m/901 ft",
+        "description": "Distance: 29.2km/18.2mi<br/>Elevation: 275m/901 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Road to Sky": {
-        "description": "Distance: 17.5 km/10.9 mi<br/>Elevation: 1046 m/3431 ft",
+        "description": "Distance: 17.5km/10.9mi<br/>Elevation: 1046m/3431 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Sand and Sequoias": {
-        "description": "Distance: 20.1 km/12.5 mi<br/>Elevation: 175 m/574 ft",
+        "description": "Distance: 20.1km/12.5mi<br/>Elevation: 175m/574 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Serpentine 8": {
-        "description": "Distance: 19.3 km/12 mi<br/>Elevation: 206 m/675 ft",
+        "description": "Distance: 19.3km/12mi<br/>Elevation: 206m/675 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Shorelines and Summits": {
-        "description": "Distance: 46.2 km/28.7 mi<br/>Elevation: 776 m/2545 ft",
+        "description": "Distance: 46.2km/28.7mi<br/>Elevation: 776m/2545 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Spiral into the Volcano": {
-        "description": "Distance: 55.6 km/34.6 mi<br/>Elevation: 355 m/1,165 ft",
+        "description": "Distance: 55.6km/34.6mi<br/>Elevation: 355m/1,165 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Sugar Cookie": {
-        "description": "Distance: 33.6 km/20.8 mi<br/>Elevation: 250 m/820 ft",
+        "description": "Distance: 33.6km/20.8mi<br/>Elevation: 250m/820 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Surfin' Safari": {
-        "description": "Distance: 9.8 km/6.1 mi<br/>Elevation: 44 m/143 ft",
+        "description": "Distance: 9.8km/6.1mi<br/>Elevation: 44m/143 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Temple Trek": {
-        "description": "Distance: 6.5 km/4.1 mi<br/>Elevation: 25 m/82 ft",
+        "description": "Distance: 6.5km/4.1mi<br/>Elevation: 25m/82 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Tempus Fugit": {
-        "description": "Distance: 17.1 km/10.7 mi<br/>Elevation: 26 m/84 ft",
+        "description": "Distance: 17.1km/10.7mi<br/>Elevation: 26m/84 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The Big Ring": {
-        "description": "Distance: 48.9 km/30.4 mi<br/>Elevation: 268 m/881 ft",
+        "description": "Distance: 48.9km/30.4mi<br/>Elevation: 268m/881 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The Mega Pretzel": {
-        "description": "Distance: 107.3 km/66.7 mi<br/>Elevation: 1638 m/5375 ft",
+        "description": "Distance: 107.3km/66.7mi<br/>Elevation: 1638m/5375 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The Pretzel": {
-        "description": "Distance: 72.2 km/44.8 mi<br/>Elevation: 1360 m/4464 ft",
+        "description": "Distance: 72.2km/44.8mi<br/>Elevation: 1360m/4464 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The Uber Pretzel": {
-        "description": "Distance: 128.3 km/79.7 mi<br/>Elevation: 2380 m/7808 ft",
+        "description": "Distance: 128.3km/79.7mi<br/>Elevation: 2380m/7808 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Three Little Sisters": {
-        "description": "Distance: 37.1 km/23.1 mi<br/>Elevation: 432 m/1413 ft",
+        "description": "Distance: 37.1km/23.1mi<br/>Elevation: 432m/1413 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Three Sisters": {
-        "description": "Distance: 47.6 km/29.6 mi<br/>Elevation: 895 m/2939 ft",
+        "description": "Distance: 47.6km/29.6mi<br/>Elevation: 895m/2939 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Tick Tock": {
-        "description": "Distance: 16.9 km/10.5 mi<br/>Elevation: 53 m/175 ft",
+        "description": "Distance: 16.9km/10.5mi<br/>Elevation: 53m/175 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Tour of Fire and Ice": {
-        "description": "Distance: 25.4 km/15.7 mi<br/>Elevation: 1164 m/3821 ft",
+        "description": "Distance: 25.4km/15.7mi<br/>Elevation: 1164m/3821 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Triple Flat Loops": {
-        "description": "Distance: 34 km/21.1 mi<br/>Elevation: 157 m/514 mi)",
+        "description": "Distance: 34km/21.1mi<br/>Elevation: 157m/514 mi)",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Two Bridges Loop": {
-        "description": "Distance: 7.1 km/4.4 mi<br/>Elevation: 81 m/265 ft",
+        "description": "Distance: 7.1km/4.4mi<br/>Elevation: 81m/265 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Volcano Circuit": {
-        "description": "Distance: 4.1 km/2.5 mi<br/>Elevation: 21 m/67 ft",
+        "description": "Distance: 4.1km/2.5mi<br/>Elevation: 21m/67 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Volcano Circuit CCW": {
-        "description": "Distance: 4.1 km/2.5 mi<br/>Elevation: 20 m/67 ft",
+        "description": "Distance: 4.1km/2.5mi<br/>Elevation: 20m/67 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Volcano Climb": {
-        "description": "Distance: 22.5 km/13.9 mi<br/>Elevation: 203 m/666 ft",
+        "description": "Distance: 22.5km/13.9mi<br/>Elevation: 203m/666 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Volcano Flat": {
-        "description": "Distance: 12 km/7.4 mi<br/>Elevation: 50 m/164 ft",
+        "description": "Distance: 12km/7.4mi<br/>Elevation: 50m/164 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Watopia's Waistband": {
-        "description": "Distance: 25.5 km/15.8 mi<br/>Elevation: 95 m/312 ft",
+        "description": "Distance: 25.5km/15.8mi<br/>Elevation: 95m/312 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Whole Lotta Lava": {
-        "description": "Distance: 12.3 km/7.6 mi<br/>Elevation: 160 m/527 ft",
+        "description": "Distance: 12.3km/7.6mi<br/>Elevation: 160m/527 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Zwift Games 2024 Epic": {
-        "description": "Distance: 78.1 km/48.6 mi<br/>Elevation: 765 m/2,509 ft",
+        "description": "Distance: 78.1km/48.6mi<br/>Elevation: 765m/2,509 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "2019 UCI Worlds Harrogate Circuit": {
-        "description": "Distance: 13.9 km/8.6 mi<br/>Elevation: 246 m/805 ft",
+        "description": "Distance: 13.9km/8.6mi<br/>Elevation: 246m/805 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Duchy Estate": {
-        "description": "Distance: 3 km/1.8 mi<br/>Elevation: 40 m/133 ft",
+        "description": "Distance: 3km/1.8mi<br/>Elevation: 40m/133 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Queen's Highway": {
-        "description": "Distance: 3 km/1.8 mi<br/>Elevation: 40 m/134 ft",
+        "description": "Distance: 3km/1.8mi<br/>Elevation: 40m/134 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Royal Pump Room 8": {
-        "description": "Distance: 27.6 km/17.2 mi<br/>Elevation: 491 m/1609 ft",
+        "description": "Distance: 27.6km/17.2mi<br/>Elevation: 491m/1609 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Tour of Tewit Well": {
-        "description": "Distance: 10.8 km/6.7 mi<br/>Elevation: 205 m/671 ft",
+        "description": "Distance: 10.8km/6.7mi<br/>Elevation: 205m/671 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Coastal Crown Loop": {
-        "description": "Distance: 15 km/9.3 mi<br/>Elevation: 186 m/610 ft",
+        "description": "Distance: 15km/9.3mi<br/>Elevation: 186m/610 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Elevation Evaluation": {
-        "description": "Distance: 24.6 km/15.3 mi<br/>Elevation: 396 m/1,299 ft",
+        "description": "Distance: 24.6km/15.3mi<br/>Elevation: 396m/1,299 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Glyph Heights": {
-        "description": "Distance: 25.4 km/15.8 mi<br/>Elevation: 537 m/1,762 ft",
+        "description": "Distance: 25.4km/15.8mi<br/>Elevation: 537m/1,762 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Mayan Mash": {
-        "description": "Distance: 34.6 km/21.5 mi<br/>Elevation: 755 m/2,477 ft",
+        "description": "Distance: 34.6km/21.5mi<br/>Elevation: 755m/2,477 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Oh Hill No": {
-        "description": "Distance: 7.9 km/4.9 mi<br/>Elevation: 306 m/1,004 ft",
+        "description": "Distance: 7.9km/4.9mi<br/>Elevation: 306m/1,004 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Peak Performance": {
-        "description": "Distance: 45.9 km/28.5 mi<br/>Elevation: 726 m/2,382 ft",
+        "description": "Distance: 45.9km/28.5mi<br/>Elevation: 726m/2,382 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Snowman": {
-        "description": "Distance: 44 km/27.3 mi<br/>Elevation: 578 m/1,896 ft",
+        "description": "Distance: 44km/27.3mi<br/>Elevation: 578m/1,896 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Tides and Temples": {
-        "description": "Distance: 36.5 km/22.7 mi<br/>Elevation: 460 m/1,509 ft",
+        "description": "Distance: 36.5km/22.7mi<br/>Elevation: 460m/1,509 ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Radio Rendezvous": {
-        "description": "Distance: 20.5km/12.7 mi<br/>Elevation: 736 m/2414.7ft",
+        "description": "Distance: 20.5km/12.7mi<br/>Elevation: 736m/2414.7ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Power to the Tower": {
-        "description": "Distance: 45.3 km/28.1 mi<br/>Elevation: 1496 m/4,908ft",
+        "description": "Distance: 45.3km/28.1mi<br/>Elevation: 1496m/4,908ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Navig8": {
-        "description": "Distance: 63.9 km/39.7 mi<br/>Elevation: 417 m/1,368ft",
+        "description": "Distance: 63.9km/39.7mi<br/>Elevation: 417m/1,368ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Mayan 8": {
-        "description": "Distance: 20 km/12.4 mi<br/>Elevation: 241 m/791ft",
+        "description": "Distance: 20km/12.4mi<br/>Elevation: 241m/791ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Makuri Pretzel": {
-        "description": "Distance: 77.7 km/48.3 mi<br/>Elevation: 620 m/2,034ft",
+        "description": "Distance: 77.7km/48.3mi<br/>Elevation: 620m/2,034ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Itza Climb Finish": {
-        "description": "Distance: 29.3 km/18.2 mi<br/>Elevation: 293 m/961ft",
+        "description": "Distance: 29.3km/18.2mi<br/>Elevation: 293m/961ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Itza Party": {
-        "description": "Distance: 45.2 km/28.1 mi<br/>Elevation: 506 m/1,660ft",
+        "description": "Distance: 45.2km/28.1mi<br/>Elevation: 506m/1,660ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Mayan San Remo": {
-        "description": "Distance: 21.4 km/13.3 mi<br/>Elevation: 219 m/719ft",
+        "description": "Distance: 21.4km/13.3mi<br/>Elevation: 219m/719ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Libby Hill After Party": {
-        "description": "Distance: 32.9 km/20.4 mi<br/>Elevation: 118 m/387ft",
+        "description": "Distance: 32.9km/20.4mi<br/>Elevation: 118m/387ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
 
       "Richmond Loop Around": {
-        "description": "Distance: 42.5 km/26.4 mi<br/>Elevation:  550 m/1,804ft",
+        "description": "Distance: 42.5km/26.4mi<br/>Elevation:  550m/1,804ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Shisa Shakedown": {
-        "description": "Distance: 53.3 km/33.1 mi<br/>Elevation: 557 m/1,827ft",
+        "description": "Distance: 53.3km/33.1mi<br/>Elevation: 557m/1,827ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Yorkshire Double Loops": {
-        "description": "Distance: 29.6 km/18.4 mi<br/>Elevation: 548 m/1,798ft",
+        "description": "Distance: 29.6km/18.4mi<br/>Elevation: 548m/1,798ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Titans Run": {
-        "description": "Distance: 5.9 km/3.7 mi<br/>Elevation: 122 m/400ft",
+        "description": "Distance: 5.9km/3.7mi<br/>Elevation: 122m/400ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Epic Run": {
-        "description": "Distance: 6.2 km/3.9 mi<br/>Elevation: 296 m/971ft",
+        "description": "Distance: 6.2km/3.9mi<br/>Elevation: 296m/971ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "The Classic": {
-        "description": "Distance: 4.7 km/2.9 mi<br/>Elevation: 49 m/161ft",
+        "description": "Distance: 4.7km/2.9mi<br/>Elevation: 49m/161ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       },
       "Waisted 8": {
-        "description": "Distance: 30.7 km/19.1 mi<br/>Elevation: 144 m/472ft",
+        "description": "Distance: 30.7km/19.1mi<br/>Elevation: 144m/472ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Power to the Portal": {
+        "description": "Distance: 17.6km/10.9mi<br/>Elevation: 99m/325ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Deca Dash": {
+        "description": "Distance: 48.2km/30mi<br/>Elevation: 484m/1,588ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Triple Twist": {
+        "description": "Distance: 19.8km/12.3mi<br/>Elevation: 180m/591ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Coast to Coast": {
+        "description": "Distance: 24.1km/15mi<br/>Elevation: 154m/505ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Loopin Lava": {
+        "description": "Distance: 14.3km/8.9mi<br/>Elevation: 196m/643ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Gotthard Pass Climb Portal": {
+        "description": "Distance: 14.4km/8.9mi<br/>Elevation: 909m/2,982ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       }
