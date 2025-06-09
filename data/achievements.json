@@ -268,7 +268,7 @@
         "image": "Watt8.png",
         "image_description": "An illustration of a ball of light."
       },
-      "You’re famous": {
+      "You're famous": {
         "description": "You received 30 Ride Ons in one ride",
         "image": "GetRideOn2.png",
         "image_description": "An illustration of a tired cyclist viwed from behind, with their back covered in \"thumbs-up\" icons, coming out of their pants."
@@ -284,7 +284,7 @@
         "image_description": "An illustration of a person running, with a stopwatch floating behind them and showing 5 minutes elapsed."
       },
       "Everested!": {
-        "description": "You climed 29,029 ft in one activity",
+        "description": "You climbed 29,029 ft in one activity",
         "image": "EverestChallenge.png",
         "image_description": "An illustration of a tall mountain with an excessively long, colorful striped flag planted on top and blowing in the wind."
       },
@@ -1165,6 +1165,36 @@
       },
       "Gotthard Pass Climb Portal": {
         "description": "Distance: 14.4km/8.9mi<br/>Elevation: 909m/2,982ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Outer Scotland": {
+        "description": "Distance: 11.1km/6.9mi<br/>Elevation: 104m/341ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Petite Douleur": {
+        "description": "Distance: 13.9km/8.6mi<br/>Elevation: 194m/636ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "London Flat": {
+        "description": "Distance: 11.99km/7.5mi<br/>Elevation: 115m/377ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Makuri Madness": {
+        "description": "Distance: 15.9km/9.9mi<br/>Elevation: 85m/279ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Downtown Eruption": {
+        "description": "Distance: 19.4km/12.1mi<br/>Elevation: 275m/902ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Scotland Smash": {
+        "description": "Distance: 17.8km/11.1mi<br/>Elevation: 167m/548ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
       }
