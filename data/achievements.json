@@ -1197,6 +1197,11 @@
         "description": "Distance: 17.8km/11.1mi<br/>Elevation: 167m/548ft",
         "image": "RouteComplete.png",
         "image_description": "DESCR_ROUTE_COMPLETE"
+      },
+      "Croissant": {
+        "description": "Distance: 9.3km/5.8mi<br/>Elevation: 49m/161ft",
+        "image": "RouteComplete.png",
+        "image_description": "DESCR_ROUTE_COMPLETE"
       }
     }
   }
